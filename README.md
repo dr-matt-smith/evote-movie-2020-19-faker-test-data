@@ -4,8 +4,8 @@ We are going to refactor our project to use the Faker 3rd-party library to make 
 
 Learn about the Faker library at Github or Packagist (same README, different formatting):
 
-[github](https://github.com/fzaninotto/Faker)
-[packagist](https://packagist.org/packages/fzaninotto/faker)
+- [github](https://github.com/fzaninotto/Faker)
+- [packagist](https://packagist.org/packages/fzaninotto/faker)
 
 ![screenshot of SQLWorkbench DB client listing random Movie rows](screenshots/fakerFixtures.png)
 
